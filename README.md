@@ -25,12 +25,6 @@ The circuit consists of three main sections:
 - **FFT Analysis** confirms waveform accuracy and expected frequency response.  
 - **Observed Frequency Range:** 600 Hz – 36.8 kHz.  
 
-### **Theoretical vs. Simulated Results**  
-| Method      | Frequency (kHz) |  
-|------------|---------------|  
-| Theoretical | 1.163 kHz |  
-| Simulated (FFT) | 1.78 kHz |  
-
 ## **PCB Design**  
 The PCB layout was designed using **EasyEDA/KiCad**, ensuring minimal noise and signal distortion.  
 
